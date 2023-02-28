@@ -1,19 +1,19 @@
 import styled from 'styled-components';
 
-export const SecondaryText = styled.p`
+export const ContentSecondaryText = styled.p`
   color: ${({ theme }) => theme.color.slateGray};
   font-weight: 700;
   font-size: 12px;
   margin: 64px 0 12px 0;
 `;
 
-export const Name = styled.h1`
+export const ContentName = styled.h1`
   font-size: 38px;
   margin: 0 0 35px 0;
   color: ${({ theme }) => theme.color.black};
 `;
 
-export const About = styled.p`
+export const ContentAbout = styled.p`
   margin: 0;
   padding: 0;
   color: ${({ theme }) => theme.color.slateGray};
@@ -21,7 +21,7 @@ export const About = styled.p`
   line-height: 1.4;
 `;
 
-export const Button = styled.button`
+export const ContentButton = styled.button`
   display: flex;
   flex-direction: row;
   justify-content: center;

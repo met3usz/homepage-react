@@ -1,19 +1,24 @@
 import MailIcon from './MailIcon';
-import { SecondaryText, Name, About, Button } from './styled';
+import {
+  ContentSecondaryText,
+  ContentName,
+  ContentAbout,
+  ContentButton,
+} from './styled';
 
 const Content = () => {
   return (
     <div>
-      <SecondaryText>THIS IS</SecondaryText>
-      <Name>Mateusz Wąsik</Name>
-      <About>
+      <ContentSecondaryText>THIS IS</ContentSecondaryText>
+      <ContentName>Mateusz Wąsik</ContentName>
+      <ContentAbout>
         👨🏼‍💻 🚀 Fugiat eiusmod velit in non esse. Et fugiat tempor culpa dolor
         ipsum.
-      </About>
-      <Button>
+      </ContentAbout>
+      <ContentButton>
         <MailIcon />
         Hire Me
-      </Button>
+      </ContentButton>
     </div>
   );
 };
