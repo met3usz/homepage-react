@@ -5,7 +5,7 @@ const ListItemWrapper = () => {
   return (
     <ItemWrapper>
       <EllipseIcon />
-      <ListItem>Lorem ipsum dolor</ListItem>
+      <ListItem>nanananananananannanana</ListItem>
     </ItemWrapper>
   );
 };
