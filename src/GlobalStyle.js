@@ -13,9 +13,10 @@ html {
 }
 
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
     background: ${({ theme }) => theme.color.mercury};
     word-break: break-word;
+    padding: 14px;
 }
 
 `;
