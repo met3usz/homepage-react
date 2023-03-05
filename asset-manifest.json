@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/homepage-react/static/js/main.930e47a1.js",
+    "main.js": "/homepage-react/static/js/main.1e7264c9.js",
     "static/js/787.ed490093.chunk.js": "/homepage-react/static/js/787.ed490093.chunk.js",
     "static/media/mateusz_wasik.jpg": "/homepage-react/static/media/mateusz_wasik.3efa4d1ffaff90811ef9.jpg",
     "index.html": "/homepage-react/index.html",
     "static/media/Message.svg": "/homepage-react/static/media/Message.a791c274a5ca6a7bba77c80d96c14056.svg",
     "static/media/Ellipse.svg": "/homepage-react/static/media/Ellipse.c28602c8be31d96b4a27bc3627dd6f6f.svg",
-    "main.930e47a1.js.map": "/homepage-react/static/js/main.930e47a1.js.map",
+    "main.1e7264c9.js.map": "/homepage-react/static/js/main.1e7264c9.js.map",
     "787.ed490093.chunk.js.map": "/homepage-react/static/js/787.ed490093.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.930e47a1.js"
+    "static/js/main.1e7264c9.js"
   ]
 }
