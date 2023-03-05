@@ -3,6 +3,7 @@ import Header from './components/Header';
 import LearnNext from './components/LearnNext';
 import Portfolio from './components/Portfolio';
 import Skills from './components/Skills';
+import SocialMedia from './components/SocialMedias';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <LearnNext />
       <Portfolio />
       <Contact />
+      <SocialMedia />
     </>
   );
 }
