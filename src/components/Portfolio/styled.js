@@ -3,7 +3,7 @@ import { SecondaryTitle } from '../../common/SecondaryTitle';
 
 export const PortfolioWrapper = styled.section`
   max-width: 1216px;
-  margin: 0 auto;
+  margin: 0 auto 120px auto;
 `;
 
 export const PortfolioTitleWrapper = styled.div`
