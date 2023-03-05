@@ -1,5 +1,5 @@
 import { ItemWrapper, ListItem } from './styled';
-import { EllipseIcon } from '../Ellipse';
+import { EllipseIcon } from '../../Ellipse';
 
 const ListItemWrapper = () => {
   return (
